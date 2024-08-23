@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Service 1 - Your SharePoint Service</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Your SharePoint Service</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="service1.html">Service 1</a></li>
+                <li><a href="service2.html">Service 2</a></li>
+                <!-- Add more services as needed -->
+            </ul>
+        </nav>
+    </header>
+    
+    <main>
+        <h2>Service 1</h2>
+        <p>Welcome to the Service 1 page. This is where you describe the service and provide details for your users.</p>
+        <section>
+            <h3>Features</h3>
+            <ul>
+                <li>Feature 1</li>
+                <li>Feature 2</li>
+                <li>Feature 3</li>
+            </ul>
+        </section>
+        <section>
+            <h3>How to Access</h3>
+            <p>Instructions on how to access or use this service.</p>
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; 2024 Your Company Name</p>
+    </footer>
+</body>
+</html>
